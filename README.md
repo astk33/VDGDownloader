@@ -6,7 +6,7 @@ platfom suported are Windows Store And Steam.
 
 The tool locate the Community folder Automaticlly and extract the Downloaded Content into that folder.
 
-**************** plese make a backup copy of your Community Foder   **************
+**************** *****plese make a backup copy of your Community Foder   **************
 
 The Tool delete old content by itself and upgrade it.
 
