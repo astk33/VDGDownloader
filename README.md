@@ -8,7 +8,7 @@ The tool locate the Community folder Automaticlly and extract the Downloaded Con
 
 **************** please make a backup copy of your Community Foder   **************
 
-The Tool delete old content by itself and upgrade it.
+The Tool deletes old content by itself and upgrade it.
 
 Please Run The Tool from Command Line (CMD) So you can See the Progress And Messages on the fly.
 
