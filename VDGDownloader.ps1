@@ -227,6 +227,7 @@ Function Delete-Community
 "nivtesler-teladashim"
 "pik-airport"
 "Tel Adashim Photo"
+"Adashim"
 )
     
     foreach ($line in $foldersToDelete)
@@ -858,9 +859,9 @@ $ButtonStart.Add_Click({
                                         #$ProgressBar1.Value += 2.9
                                 }
 
-                            Download-Zip -DownloadLinkParam "https://testvdg.blob.core.windows.net/vdgdownloader/Herzlia_photo.zip" -downloadHAsh "3F4B2C3EDA16AB3CA5291635EF579E37AB2A70EF67F23DF024E7A131C2421EA2"
+                        #    Download-Zip -DownloadLinkParam "https://testvdg.blob.core.windows.net/vdgdownloader/Herzlia_photo.zip" -downloadHAsh "3F4B2C3EDA16AB3CA5291635EF579E37AB2A70EF67F23DF024E7A131C2421EA2"
 
-                            Download-Zip -DownloadLinkParam "https://testvdg.blob.core.windows.net/vdgdownloader/barrodoy-haifa-4-photo.zip" -downloadHAsh '54B85B4836587F9595BA9BFABD64CD5D31490CF2B0BB9536D9D51147AE2747CC'
+                         #   Download-Zip -DownloadLinkParam "https://testvdg.blob.core.windows.net/vdgdownloader/barrodoy-haifa-4-photo.zip" -downloadHAsh '54B85B4836587F9595BA9BFABD64CD5D31490CF2B0BB9536D9D51147AE2747CC'
 
                             $ProgressBar.value = 50
                             $ButtonCancel.Text = "Close"

@@ -34,3 +34,5 @@ https://vdgsim.com/site/downloads/MSFS/nivtesler-llks-26.10.21.rar,C798FAEF1F6D1
 https://vdgsim.com/site/downloads/MSFS/barrodoy-haifa-1-airport-llha-26.10.21.rar,9E81FDBC33B99D243BF40BCF8F9B43820CC665C4D0F5EBABF76D91DD470F2785
 https://vdgsim.com/site/downloads/MSFS/1barrodoy-llha-photo.rar,5D07AE679DDC95C43A49E98EEEF0FE9E7B3592722E1CBE2ADA30845F08010535
 https://vdgsim.com/site/downloads/MSFS/barrodoy-haifa-3-objects.rar,95F39281AF7928B94E301F8208489A70140E9421CCE59529A30B28BFC7B0683C
+https://vdgsim.com/site/downloads/MSFS/barrodoy-haifa-4-photo-26.10.21.rar,A9991B096697A544CEF04A5446CDBD007640083FEC144783A7595CF6C107A95F
+https://vdgsim.com/site/downloads/MSFS/Herzlia_photo-26.10.21.rar,C52490BD9DE6CB40474EA4B0AB17D6FBF962927C3128B558DE4AF4FD371E2BA0
